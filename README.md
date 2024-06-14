@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<a align="center" href="https://kevindallian.vercel.app/">Check Out My Website!</a>
+<h3>Check Out My Website: https://kevindallian.vercel.app/</h3>
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=KevinDallian&theme=react&show_icons=true&include_all_commits=true" />
